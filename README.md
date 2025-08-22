@@ -26,7 +26,7 @@ It was created as part of Maven Analytics' Power BI course.
 
 ## Screenshots
 ![Executive Dashboard](Dashboard_Screenshots/Exec_Dashboard_Screenshot.png)
-![Map](Dashboard_Screenshots/Map_Screenshot.png)  
+![Map](Dashboard_Screenchots/Map_Screenshot.png)  
 ![Product Dashboard](Dashboard_Screenshots/Product_details_Screenshot.png)
 ![Customer Dashboard](Dashboard_Screenshots/Customer_details_Screenshot.png)
 
