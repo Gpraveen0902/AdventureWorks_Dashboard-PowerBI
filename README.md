@@ -8,12 +8,16 @@ It was created as part of Maven Analytics' Power BI course.
 1. **Executive Summary Dashboard**
    - Overall sales trends and KPIs.
    - Revenue comparison across years and regions.
-2. **Customer Insights Dashboard**
-   - Top customers by revenue.
-   - Customer segmentation by geography.
-3. **Product Performance Dashboard**
+2. **Geographic Map Dashboard**
+   - Regional sales performance across countries and continents.
+   - Revenue contribution and market distribution by location.
+2. **Product Performance Dashboard**
    - Best and worst-selling products.
    - Profitability trends by product category.
+3. **Customer Insights Dashboard**
+   - Top customers by revenue.
+   - Customer segmentation by geography.
+
 
 ## Key Insights
 - USA generates the highest revenue.
