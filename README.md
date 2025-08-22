@@ -25,10 +25,10 @@ It was created as part of Maven Analytics' Power BI course.
 - Or check the **screenshots** below for an overview.
 
 ## Screenshots
-![Executive Dashboard](DashboardScreenshots/ExecDashboardScreenshot.png)
-![Map](Dashboard%Screenshots/Map%Screenshot.png)  
-![Product Dashboard](Dashboard%Screenshots/Product%details%Screenshot.png)
-![Customer Dashboard](Dashboard%Screenshots/Customer%details%Screenshot.png)
+![Executive Dashboard](Dashboard_Screenshots/Exec_Dashboard_Screenshot.png)
+![Map](Dashboard_Screenshots/Map_Screenshot.png)  
+![Product Dashboard](Dashboard_Screenshots/Product_details_Screenshot.png)
+![Customer Dashboard](Dashboard_Screenshots/Customer_details_Screenshot.png)
 
 ---
 **Created by:** Praveenkumar
